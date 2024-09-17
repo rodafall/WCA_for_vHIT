@@ -19,5 +19,5 @@ Sheng-Chiao Lin, MD
 https://github.com/rodafall?tab=repositories  
 https://orcid.org/my-orcid?orcid=0000-0003-1580-4274
 
-© 2024 Sheng-Chiao Lin, MD  
+© 2024 Sheng-Chiao Lin, MD and Che-Wei Lin, PhD  
 Department of Biomedical Engineering, College of Engineering, National Cheng Kung University, Tainan, Taiwan
