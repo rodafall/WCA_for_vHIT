@@ -46,7 +46,6 @@ for i=1:size(eye_vHIT,2)          % Loop through each column of eye_vHIT.
     position{i} = find(avg{i} > 0.9); % Find the positions where coherence is greater than 0.9.
     highfp{i} = min(position{i});  % Find the first occurrence of high coherence.
     highf{i} = f(highfp{i});       % Get the corresponding frequency for high coherence.
-    wcoherence(headn{i},eyen{i},250); % Plot the wavelet coherence for visualization.
 end
 
 % Exporting Results
