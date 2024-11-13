@@ -11,10 +11,10 @@ For vHIT analysis, you need to export the data as a .xml file from ICS IMPULSE s
 
 ## Disclaimer
 
-This software is for research purposes only. No warranty is provided. 
-If used, please cite the following reference: 
-https://doi.org/10.21053/ceo.2024.00068 
-Lin SC, Lin MY, Kang BH, et al. Video Head Impulse Test Coherence Predicts Vertigo Recovery in Sudden Sensorineural Hearing Loss with Vertigo. Clin Exp Otorhinolaryngol. Published online November 6, 2024. doi:10.21053/ceo.2024.00068 
+This software is for research purposes only. No warranty is provided.  
+If used, please cite the following reference:  
+https://doi.org/10.21053/ceo.2024.00068  
+Lin SC, Lin MY, Kang BH, et al. Video Head Impulse Test Coherence Predicts Vertigo Recovery in Sudden Sensorineural Hearing Loss with Vertigo. Clin Exp Otorhinolaryngol. Published online November 6, 2024. doi:10.21053/ceo.2024.00068  
 
 ## Contact
 
